@@ -1,2 +1,11 @@
 first line now we are executre only line 
+a = 3 
+b = 4 
+c = a + b 
+print (c)
+
+that' s all
+
+
+some of the coded line have entered 
 
